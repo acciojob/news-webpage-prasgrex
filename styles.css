@@ -24,8 +24,7 @@ h4{
 	width:200px;
 	background-color:white;
 	padding:50px;
-	border-radius:10px;
-	margin:5px;
+	
 }
 
 .latest-news-section{
@@ -33,6 +32,8 @@ h4{
 	width:150px;
 	background-color:white;
 	padding:50px;
+	border-radius:10px;
+	margin:5px;
 	
 }
 
@@ -41,8 +42,15 @@ h4{
 	width:200px;
 	background-color:white;
 	padding:50px;
+	border-radius:10px;
+	margin:5px;
 }
 
 .pictorial-news-section{
 	height:650px;
+	width:200px;
+	background-color:white;
+	padding:50px;
+	border-radius:10px;
+	margin:5px;
 }
