@@ -15,6 +15,10 @@ header{
 	padding:10px;
 }
 
+h3{
+	text-align:center;
+}
+
 h4{
 	text-align:center;
 }
@@ -53,4 +57,5 @@ h4{
 	padding:50px;
 	border-radius:10px;
 	margin:5px;
+	text-align:center;
 }
